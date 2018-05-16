@@ -46,3 +46,11 @@
   bottom: 10px;
   width: calc(98% + 4px);
 }
+
+.Message__user {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 11px;
+  opacity: 0.5;
+}
